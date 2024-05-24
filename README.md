@@ -1,4 +1,4 @@
-## oi, tudo bem? 📚
+## oi, seja bem vindo! 📚
 
 <!--
 **Henry2605208/Henry2605208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
